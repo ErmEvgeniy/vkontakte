@@ -27,9 +27,6 @@
       <change afterPath="$PROJECT_DIR$/../radioman/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../radioman/src/main/java/netology/Radio.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../radioman/src/test/java/netology/RadioTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/CommentInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Post.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
@@ -40,6 +37,11 @@
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/classes/netology/Radio.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../target/test-classes/netology/RadioTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/CommentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/CommentInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iJVkoFUDpAIV1NKJlhv7ilBBRP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -98,5 +100,9 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="0" y="23" key="#Project_Structure/0.23.1440.808@0.23.1440.808" timestamp="1601625996208" />
+    <state x="729" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1601631277098">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="729" y="122" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1601631277098" />
   </component>
 </project>
