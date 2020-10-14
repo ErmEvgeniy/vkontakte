@@ -2,7 +2,7 @@ package domain;
 
 public class Post {
     private int id;
-    private String CommentInfo;
+    private String commentInfo;
     private String autor;
     private int date;
     private int likes;
@@ -20,11 +20,11 @@ public class Post {
     }
 
     public String getCommentInfo() {
-        return CommentInfo;
+        return commentInfo;
     }
 
     public void setCommentInfo(String commentInfo) {
-        CommentInfo = commentInfo;
+        commentInfo = commentInfo;
     }
 
     public String getAutor() {

@@ -4,6 +4,8 @@ HELP.md
 .gradle
 build/
 target/
+.idea
+vkontakte.iml
 
 ### STS ###
 .apt_generated
